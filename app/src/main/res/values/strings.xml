@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Pictures</string>
+    <string name="imagen_camara">Imagen camara</string>
+    <string name="imagen_video">Imagen video</string>
+    <string name="imagen_galeria_fotos">Imagen galeria fotos</string>
+    <string name="imagen_galeria_videos">Imagen galeria videos</string>
+</resources>
